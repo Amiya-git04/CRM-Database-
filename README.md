@@ -1,4 +1,4 @@
-# CRM-Database-
+# CRM-Database
 This project is part of my internship assignment focused on designing and querying a Customer Relationship Management (CRM) database. The task involved creating a relational database from scratch, populating it with sample data, and executing real-world business queries using SQL.
 
  # Project Scope
